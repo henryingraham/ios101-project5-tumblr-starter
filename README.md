@@ -1,6 +1,6 @@
 # Project 5 - *Tumblr*
 
-Submitted by: **Your Name Here**
+Submitted by: **Henry Ingraham**
 
 **Tumblr** is an app that allows users to scroll and view posts
 
